@@ -1,16 +1,31 @@
-### Hi there 👋
+🦊 About 🦊
 
-<!--
-**tRy-HaRd-tgn/tRy-HaRd-tgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Arthur
+Loves: anime, neko, FPS, phonk, hyperpop
+Hobbys: Video & Music Editing
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Main Skills 📇
+
+
+
+Static Badge Static Badge Static Badge
+Static Badge Static Badge
+
+
+Social life?
+
+sociaw things
+
+ Static Badge
+Static Badge Static Badge
+
+
+Stats📝
+trophy
+
+ 
+
+ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
+HTML5CSS3SassJavaScriptReactSQLGitGitHubHTML5JavaSpring BootPythonDockerDockerand a lot of more...
