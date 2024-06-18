@@ -19,6 +19,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiASR7hNQ6tqCwNBYKkiwhiEwJL-tOCyRn12lnBMJmh1pPO71DbLNWPhjmbhuXrja8U2XT154olOqHBiTcIiIxNpM7Oh698WXdfN5SuhNVx5zyxtCrQ2KGxqsmG0oDWFFB2TI9NejF22HcgLBhCS2r19o467YY1wsbdME5HGHNNVNBmWH5AsjEp3xJK%2Fs3840%2FDocker-Symbol.png&lr=971&pos=2&rpt=simage&text=docker%20иконка" alt="docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a> 
 </p>
