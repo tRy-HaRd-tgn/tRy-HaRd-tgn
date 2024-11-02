@@ -21,6 +21,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
+  <a href="https://react-redux.js.org/introduction/getting-started" target="_blank" rel="noreferrer"> 
+    <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple.png" alt="react" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
