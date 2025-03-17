@@ -29,6 +29,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)" alt="typescript" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
