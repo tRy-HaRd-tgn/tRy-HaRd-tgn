@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sam</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **nextJs**
 - 🌱 I’m currently learning **typescript**
 
 <h3 align="left">Languages and Tools:</h3>
