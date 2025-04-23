@@ -31,4 +31,7 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
+   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/tree/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/> 
+  </a> 
 </p>
