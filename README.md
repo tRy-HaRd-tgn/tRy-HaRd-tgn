@@ -35,7 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/> 
   </a> 
  </a> 
-   <a href="https://nextjs.org](https://expressjs.com/" target="_blank" rel="noreferrer"> 
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express.js" width="40" height="40"/> 
   </a> 
 </p>
