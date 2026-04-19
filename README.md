@@ -10,7 +10,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;"> 
+<div> 
   <a href="https://www.w3schools.com/cpp/" width="40" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>&nbsp;
