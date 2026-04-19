@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
----
+
 <h3 align="center" style="color:#8b949e;">A passionate frontend developer from Russia</h3>
 
 ---
