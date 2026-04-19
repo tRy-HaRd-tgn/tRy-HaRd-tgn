@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center" style="color:#8b949e;">A passionate frontend developer from Russia</h3>
 
 ---
 
-* 🌱 I’m currently learning **Next.js**
-* 🌱 I’m currently learning **TypeScript**
+<ul>
+  <li>🌱 I’m currently learning <b style="color:#58a6ff;">Next.js</b></li>
+  <li>🌱 I’m currently learning <b style="color:#58a6ff;">TypeScript</b></li>
+</ul>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">
+  <span style="color:#58a6ff;">🛠 Languages and Tools:</span>
+</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" style="display:inline-block;">
@@ -48,7 +52,9 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">
+  <span style="color:#58a6ff;">🐍 Contribution Snake</span>
+</h3>
 
 <p align="center"> 
   <picture> 
