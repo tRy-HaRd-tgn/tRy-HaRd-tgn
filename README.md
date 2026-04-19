@@ -1,61 +1,72 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-
-<h3 align="center" style="color:#8b949e;">A passionate frontend developer from Russia</h3>
-
----
-
-<ul>
-  <li>🌱 I’m currently learning <b style="color:#58a6ff;">Next.js</b></li>
-  <li>🌱 I’m currently learning <b style="color:#58a6ff;">TypeScript</b></li>
-</ul>
-
----
-
-<h3 align="left">
-  <span style="color:#58a6ff;">🛠 Languages and Tools:</span>
-</h3>
+<h3 align="center">Frontend Developer • React • Next.js • TypeScript</h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff"/>
+</p>
+
+
+## 🚀 About Me
+
+* 🌱 I’m currently learning **Next.js**
+* 🌱 I’m currently learning **TypeScript**
+* 💻 Focused on building modern web apps
+
+## 🛠 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" style="padding:20px;">
+
+<p>
   <a href="https://www.w3schools.com/cpp/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://react-redux.js.org/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" style="display:block;"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" style="display:block;"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="40" style="display:block;"/>
   </a>
 </p>
 
----
+</td>
+</tr>
+</table>
 
-<h3 align="center">
-  <span style="color:#58a6ff;">🐍 Contribution Snake</span>
-</h3>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tRy-HaRd-tgn&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tRy-HaRd-tgn&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+
+## 🐍 Contribution Snake
 
 <p align="center"> 
   <picture> 
