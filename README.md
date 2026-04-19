@@ -28,6 +28,10 @@
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tRy-HaRd-tgn/tRy-HaRd-tgn/output/github-contribution-grid-snake.svg" alt="snake"/>
+<p align="center"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tRy-HaRd-tgn/tRy-HaRd-tgn/refs/heads/output/github-contribution-grid-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tRy-HaRd-tgn/tRy-HaRd-tgn/refs/heads/output/github-contribution-grid-snake.svg" /> 
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" /> 
+  </picture> 
 </p>
